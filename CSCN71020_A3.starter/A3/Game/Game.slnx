@@ -4,5 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../UnitTestDriver/UnitTestDriver.vcxproj" />
-  <Project Path="Game.vcxproj" />
+  <Project Path="Game.vcxproj" Id="429f653d-b938-45ea-93d7-c18548410791" />
 </Solution>
